@@ -15,7 +15,7 @@ While studying, I work as a TA and tutor (Dashboard can be found [here](https://
 
 ## Primary Interests
 
-Cloud (AWS/GCP), Distributed Systems, Embedded, Graphs, Machine Learning (Primarily Deep Learning; Image and SAR processing), Mathematics, Networks, Robotics, Satistics
+Cloud (AWS/GCP), Distributed Systems, Embedded, Graphs, Machine Learning (Primarily Deep Learning; Image and SAR processing), Mathematics, Networks, Robotics, Statistics
 
 
 
