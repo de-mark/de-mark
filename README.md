@@ -1,10 +1,12 @@
 # Hey, I'm Mark!
 
-My background is primarily in distributed systems / data pipelines / databases, but I've returned to school to do a deep dive into mathematics, networks, and lower-level programming to pivot into Data Science or IoT (any field that combines embedded, science, machine learning, and networks).
+I'm a data science and machine learning student whose goal is to learn how to make efficient, ethical, and environmentally sustainable AI and automative solutions.
 
-While studying, I work as a TA and tutor (Dashboard can be found [here](https://de-mark.github.io/tutoring_dashboard/) if you're interested), as a Biodiversity Analysis intern, as a Machine Learning intern, and as a Software Developer for Astronomy & Physics club.
+My major is Computer Science (with a focus in artificial intelligence and machine learning), but I'm also working on Associates in mathematics, environmental studies, biological sciences, and GIS to ensure that I'm able to understand my field on a deeper level!
 
-My current major is: AS in Computer Science, Mathematics, Environmental Science, and Biological Sciences
+I worked as a data analytics / full stack engineering TA / tutor from 2020-2024, so if you're a former student, feel free to say hi!
+
+
 
 ## Primary Programming Languages
 
@@ -14,32 +16,6 @@ My current major is: AS in Computer Science, Mathematics, Environmental Science,
 [![Go]](https://golang.org "Go")
 [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")
 [![PostgreSQL]](https://www.postgresql.org "PostgreSQL")
-
-## Primary Interests (Alphabetical Order; Not representive of interest level)
-
-<table>
-  <tr>
-    <td>Biology</td>
-    <td>Bioinformatics</td>
-    <td>Data Science</td>
-  </tr>
-  <tr>
-    <td>Distributed Systems</td>
-    <td>Efficiency / Ethicality of Systems</td>
-    <td>Embedded</td>
-  </tr>
-  <tr>
-    <td>GIS / GeoJSON</td>
-    <td>Graphs / Networks</td>
-    <td>Machine Learning</td>
-  </tr>
-  <tr>
-    <td>Mathematics / Statistics</td>
-    <td>Networks</td>
-    <td>Robotics</td>
-  </tr>
-</table>
-
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python
 [C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus
